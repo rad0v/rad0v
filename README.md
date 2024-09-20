@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rad0v.github.io/](https://rad0v.github.io/)
 
-- 📝 I regularly write articles on [https://rad0v.github.io/radovishere.github.io/](https://rad0v.github.io/radovishere.github.io/)
+- 📝 I regularly write articles on [https://rad0v.github.io/radovishere.github.io/](https://rad0v.github.io/radov-blog/)
 
 - 💬 Ask me about **networking and pentesting**
 
