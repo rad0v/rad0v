@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rad0v&label=Profile%20views&color=0e75b6&style=flat" alt="rad0v" /> </p>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **getting better at web pentesting**
 
 - 🌱 I’m currently learning **Google Professional Cyber Security Cert**
 
