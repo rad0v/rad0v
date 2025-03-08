@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **getting better at web pentesting**
 
-- 🌱 I’m currently learning **Google Professional Cyber Security Cert**
-
-- 👨‍💻 All of my projects are available at [https://rad0v.github.io/](https://rad0v.github.io/)
-
-- 📝 I regularly write articles on [https://rad0v.github.io/radovishere.github.io/](https://rad0v.github.io/radov-blog/)
+- 👨‍💻 All of my projects are available at [https://rad0v.github.io/](https://rad0v.github.io/) (currently under major improvements)
 
 - 💬 Ask me about **networking and pentesting**
 
