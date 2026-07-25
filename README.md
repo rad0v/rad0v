@@ -17,8 +17,8 @@ researching AI security.
 
 rad0v@github:~$ _
 ```
----
 
+## ~/info
 ```text
 
 rad0v@github
@@ -44,23 +44,15 @@ Tools.......... Burp Suite                Interests...... AI Security
 ## ~/main-projects
 
 ```text
-EnolaRecon-Suite/
-├── Fuzzing Bruteforcing
-├── Port Scanning via nmap
-└── Status : COMPLETED
+EnolaRecon-Suite/                                         Spearhead/
+├── Fuzzing Bruteforcing                                  ├── Google Dorking
+├── Port Scanning via nmap                                ├── Open Redirect Discovery
+└── Status : COMPLETED                                    └── Status : COMPLETED                                       
 
-Spearhead/
-├── Google Dorking
-├── Open Redirect Discovery
-└── Status : COMPLETED
+EnolaRecon-Web/                                           StackCrack/
+├── Web Vulnerability Scanner                             ├── Lightweight Technology Fingerprinting
+└── Status : COMPLETED                                    └── Status : COMPLETED
 
-EnolaRecon-Web/
-├── Web Vulnerability Scanner
-└── Status : COMPLETED
-
-StackCrack/
-├── Lightweight Technology Fingerprinting
-└── Status : COMPLETED
 ```
 
 
@@ -72,13 +64,11 @@ StackCrack/
 ✓ Penetration Testing
 ```
 
-
 ## ~/philosophy
 
 ```text
 > If you can't do anything about it don't cry.
 > If you can do anything about it then DO IT.
-> Stay Selfish Stay Humble.
 ```
 
 ```console
